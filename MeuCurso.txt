@@ -1,0 +1,3 @@
+curso : sistema de informação
+sala: 709
+materia : automação  de processo 
