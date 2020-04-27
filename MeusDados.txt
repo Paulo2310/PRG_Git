@@ -1,3 +1,5 @@
 RA : 920114733
 NOME: Paulo Henrique  Correa  De Mello
-CURSO : sistema de informação
+
+data de nasc: 23/10/2001
+email: paulo.hcmello@gmail.com
